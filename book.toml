@@ -1,0 +1,5 @@
+[book]
+title = "My Rust Examples"
+authors = ["hidsh"]
+language = "en"
+src = "md"
